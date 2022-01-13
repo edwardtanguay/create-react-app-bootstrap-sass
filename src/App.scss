@@ -1,0 +1,12 @@
+$primary: rgb(180, 110, 29); 
+
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+body {
+	background: #333;
+	p {
+		color: ivory;
+		font-size: 1.4rem;
+	}
+}
